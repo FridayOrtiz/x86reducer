@@ -1,5 +1,5 @@
 [package]
-name = "reducer"
+name = "x86reducer"
 description = "a rudimentary x86 disassembler in Rust, for JHU's REVA class"
 version = "0.1.0"
 edition = "2021"

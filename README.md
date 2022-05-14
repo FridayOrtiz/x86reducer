@@ -1,4 +1,4 @@
-# reducer
+# x86reducer
 
 A Rust program for disassembling raw x86 assembly, written for JHU's Reverse Engineering
 and Vulnerability Analysis course.
