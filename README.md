@@ -1,7 +1,8 @@
 # x86reducer
 
 A Rust program for disassembling raw x86 assembly, written for JHU's Reverse Engineering
-and Vulnerability Analysis course.
+and Vulnerability Analysis course. The complete x86 instruction set is NOT implemented,
+but the code is modularized such that new instructions can be easily added.
 
 ## Disassembly Mode
 
